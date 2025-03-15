@@ -1,1 +1,1 @@
-docker build -t studymisszhang/big-market-front-app:1.0 -f ./Dockerfile .
+docker build -t zky/big-market-front-app:2.0 .
